@@ -39,9 +39,19 @@ A full-featured Project Management Application built using the MERN stack
   <img src = "https://raw.githubusercontent.com/Lakshmipathy-r/Project-Management-Tool/refs/heads/main/Screenshots/path.png" height = 500px width = 250px>
 
 
+---
+
+## 📸 UI Highlights
+
+* Responsive dashboard layout
+* Animated task modals
+* Task filters and completion status
+* Sidebar with completion rate and recent activity
+
+---
 
 
-  ## Screenshots of UI
+  ## 📸 Screenshots of UI
 ## SignUp Page
 ![imagealt](https://github.com/Lakshmipathy-r/Project-Management-Tool/blob/main/Screenshots/Signup.png?raw=true)
                                       
@@ -114,14 +124,6 @@ MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
 ```
 
----
-
-## 📸 UI Highlights
-
-* Responsive dashboard layout
-* Animated task modals
-* Task filters and completion status
-* Sidebar with completion rate and recent activity
 
 ---
 
@@ -147,10 +149,4 @@ This project was built as part of a learning journey in full-stack development w
 
 ```
 
-Let me know if you want to:
-- Add contributor names
-- Include deployment steps (like on Vercel / Render / Netlify)
-- Include screenshots
-
-I can generate a downloadable `.md` file or turn it into a styled webpage too.
 ```
