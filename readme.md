@@ -5,7 +5,8 @@ Absolutely! Here's a **README.md** for your MERN Stack **Project Management Appl
 ```md
 # 🚀 Task Management App (MERN Stack)
 
-A full-featured Project Management Application built using the MERN stack (MongoDB, Express, React, Node.js). Users can create, edit, delete, and filter tasks based on priority and due date.
+A full-featured Project Management Application built using the MERN stack
+(MongoDB, Express, React, Node.js). Users can create, edit, delete, and filter tasks based on priority and due date.
 
 ---
 
@@ -72,6 +73,8 @@ TaskManagerApp/
 │   └── server.js
 
 ````
+##Screenshots of UI
+
 
 ---
 
@@ -79,7 +82,7 @@ TaskManagerApp/
 
 ### 1️⃣ Clone the Repo
 ```bash
-git clone https://github.com/your-username/task-manager-mern.git
+git clone https://github.com//.git
 cd task-manager-mern
 ````
 
