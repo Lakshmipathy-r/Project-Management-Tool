@@ -94,7 +94,7 @@ A full-featured Project Management Application built using the MERN stack
 cd project-management-tool
 ````
 
-### 2️⃣ Setup Backend
+### 2️⃣ Setup Frontend
 
 ```bash
 cd backend
@@ -104,7 +104,7 @@ npm run dev
 
 > Make sure MongoDB is running locally or use MongoDB Atlas.
 
-### 3️⃣ Setup Frontend
+### 3️⃣ Setup Backend
 
 ```bash
 cd ../frontend
