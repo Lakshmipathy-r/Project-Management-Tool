@@ -3,6 +3,7 @@ Absolutely! Here's a **README.md** for your MERN Stack **Project Management Appl
 ---
 
 ```md
+```
 # 🚀 Task Management App (MERN Stack)
 
 A full-featured Project Management Application built using the MERN stack
@@ -33,7 +34,7 @@ A full-featured Project Management Application built using the MERN stack
 
 ## 📂 Folder Structure
 
-```
+
 
 <p align = "center">
   <img src = "https://raw.githubusercontent.com/Lakshmipathy-r/Project-Management-Tool/refs/heads/main/Screenshots/path.png" height = 500px width = 250px>
@@ -41,32 +42,39 @@ A full-featured Project Management Application built using the MERN stack
 
 
 
-<span size = 4rem>##Screenshots of UI</span>
+  ## Screenshots of UI
 
 ![imagealt](https://github.com/Lakshmipathy-r/Project-Management-Tool/blob/main/Screenshots/Signup.png?raw=true)
-SignUp Page
+                                      SignUp Page
+                                      <br><hr><br>
 
 ![imagealt](https://github.com/Lakshmipathy-r/Project-Management-Tool/blob/main/Screenshots/Login.png?raw=true)
-Login Page
+## Login Page
+<br><hr><br>
 
 ![imagealt](https://github.com/Lakshmipathy-r/Project-Management-Tool/blob/main/Screenshots/Dashboard%20UI.png?raw=true)
 ![imagealt](https://github.com/Lakshmipathy-r/Project-Management-Tool/blob/main/Screenshots/Pendind%20Task%20UI.png?raw=true)
 ![imagealt](https://github.com/Lakshmipathy-r/Project-Management-Tool/blob/main/Screenshots/Completed%20TAsk%20UI.png?raw=true)
-Project UI
+## Project UI
+<br><hr><br>
 
 ![imagealt](https://github.com/Lakshmipathy-r/Project-Management-Tool/blob/main/Screenshots/Create%20Task%20UI.png?raw=true)
-Creating a task
+## Creating a task
+<br><hr><br>
 
 ![imagealt](https://github.com/Lakshmipathy-r/Project-Management-Tool/blob/main/Screenshots/Dash1.png?raw=true)
 ![imagealt](https://github.com/Lakshmipathy-r/Project-Management-Tool/blob/main/Screenshots/Pend1.png?raw=true)
 ![imagealt](https://github.com/Lakshmipathy-r/Project-Management-Tool/blob/main/Screenshots/Comp1.png?raw=true)
-Ui of task
+## Ui of task
+<br><hr><br>
 
 ![imagealt](https://github.com/Lakshmipathy-r/Project-Management-Tool/blob/main/Screenshots/Profile%20Settings.png?raw=true)
-Profile Settings
+## Profile Settings
+<br><hr><br>
 
 ![imagealt](https://github.com/Lakshmipathy-r/Project-Management-Tool/blob/main/Screenshots/Task%20Analytics.png?raw=true)
 </p>
+<br><hr><br>
 ---
 
 ## 🚀 Getting Started
