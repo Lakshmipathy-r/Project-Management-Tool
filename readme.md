@@ -35,7 +35,9 @@ A full-featured Project Management Application built using the MERN stack
 
 ```
 
-![image](https://github.com/user-attachments/assets/4dd61ff9-8745-425c-9ecd-920173e50e29)
+<p align = "center">
+  <img src = "https://raw.githubusercontent.com/Lakshmipathy-r/Project-Management-Tool/refs/heads/main/Screenshots/path.png" height = 500px width = 250px>
+
 
 
 
@@ -64,7 +66,7 @@ Ui of task
 Profile Settings
 
 ![imagealt](https://github.com/Lakshmipathy-r/Project-Management-Tool/blob/main/Screenshots/Task%20Analytics.png?raw=true)
-
+</p>
 ---
 
 ## 🚀 Getting Started
