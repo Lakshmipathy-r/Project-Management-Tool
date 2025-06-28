@@ -41,7 +41,7 @@ A full-featured Project Management Application built using the MERN stack
 
 
 
-##Screenshots of UI
+<span size = 4rem>##Screenshots of UI</span>
 
 ![imagealt](https://github.com/Lakshmipathy-r/Project-Management-Tool/blob/main/Screenshots/Signup.png?raw=true)
 SignUp Page
