@@ -43,35 +43,35 @@ A full-featured Project Management Application built using the MERN stack
 
 
   ## Screenshots of UI
-
+## SignUp Page
 ![imagealt](https://github.com/Lakshmipathy-r/Project-Management-Tool/blob/main/Screenshots/Signup.png?raw=true)
-                                      SignUp Page
-                                      <br><hr><br>
-
-![imagealt](https://github.com/Lakshmipathy-r/Project-Management-Tool/blob/main/Screenshots/Login.png?raw=true)
-## Login Page
+                                      
 <br><hr><br>
+## Login Page
+![imagealt](https://github.com/Lakshmipathy-r/Project-Management-Tool/blob/main/Screenshots/Login.png?raw=true)
 
+<br><hr><br>
+## Project UI
 ![imagealt](https://github.com/Lakshmipathy-r/Project-Management-Tool/blob/main/Screenshots/Dashboard%20UI.png?raw=true)
 ![imagealt](https://github.com/Lakshmipathy-r/Project-Management-Tool/blob/main/Screenshots/Pendind%20Task%20UI.png?raw=true)
 ![imagealt](https://github.com/Lakshmipathy-r/Project-Management-Tool/blob/main/Screenshots/Completed%20TAsk%20UI.png?raw=true)
-## Project UI
-<br><hr><br>
 
+<br><hr><br>
+  ## Creating a task
 ![imagealt](https://github.com/Lakshmipathy-r/Project-Management-Tool/blob/main/Screenshots/Create%20Task%20UI.png?raw=true)
-## Creating a task
-<br><hr><br>
 
+<br><hr><br>
+    ## Ui of task
 ![imagealt](https://github.com/Lakshmipathy-r/Project-Management-Tool/blob/main/Screenshots/Dash1.png?raw=true)
 ![imagealt](https://github.com/Lakshmipathy-r/Project-Management-Tool/blob/main/Screenshots/Pend1.png?raw=true)
 ![imagealt](https://github.com/Lakshmipathy-r/Project-Management-Tool/blob/main/Screenshots/Comp1.png?raw=true)
-## Ui of task
-<br><hr><br>
 
+<br><hr><br>
+  ## Profile Settings
 ![imagealt](https://github.com/Lakshmipathy-r/Project-Management-Tool/blob/main/Screenshots/Profile%20Settings.png?raw=true)
-## Profile Settings
-<br><hr><br>
 
+<br><hr><br>
+  ## Task Analytics
 ![imagealt](https://github.com/Lakshmipathy-r/Project-Management-Tool/blob/main/Screenshots/Task%20Analytics.png?raw=true)
 </p>
 <br><hr><br>
