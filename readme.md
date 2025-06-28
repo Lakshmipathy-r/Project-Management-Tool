@@ -61,7 +61,7 @@ A full-featured Project Management Application built using the MERN stack
 ![imagealt](https://github.com/Lakshmipathy-r/Project-Management-Tool/blob/main/Screenshots/Create%20Task%20UI.png?raw=true)
 
 <br><hr><br>
-    ## Ui of task
+  ## Ui of task
 ![imagealt](https://github.com/Lakshmipathy-r/Project-Management-Tool/blob/main/Screenshots/Dash1.png?raw=true)
 ![imagealt](https://github.com/Lakshmipathy-r/Project-Management-Tool/blob/main/Screenshots/Pend1.png?raw=true)
 ![imagealt](https://github.com/Lakshmipathy-r/Project-Management-Tool/blob/main/Screenshots/Comp1.png?raw=true)
