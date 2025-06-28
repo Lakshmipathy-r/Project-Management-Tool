@@ -35,9 +35,10 @@ A full-featured Project Management Application built using the MERN stack
 
 ```
 
-![imagealt](https://github.com/Lakshmipathy-r/Project-Management-Tool/blob/main/Screenshots/path.png?raw=true)
+![image](https://github.com/user-attachments/assets/4dd61ff9-8745-425c-9ecd-920173e50e29)
 
-````
+
+
 ##Screenshots of UI
 
 ![imagealt](https://github.com/Lakshmipathy-r/Project-Management-Tool/blob/main/Screenshots/Signup.png?raw=true)
