@@ -101,6 +101,10 @@ cd backend
 npm install
 npm run dev
 ```
+```dependencies
+npm install react react-dom axios react-router-dom
+npm install -D tailwindcss postcss autoprefixer
+```
 
 > Make sure MongoDB is running locally or use MongoDB Atlas.
 
@@ -111,7 +115,10 @@ cd ../frontend
 npm install
 npm start
 ```
-
+```dependencies
+npm install express mongoose jsonwebtoken bcryptjs cors dotenv
+npm install --save-dev nodemon
+```
 ---
 
 ## 🔐 Environment Variables
